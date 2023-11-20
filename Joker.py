@@ -125,9 +125,9 @@ logo=(f"""{GREEN}
 \033[93;1m════════════════════════════════════════════════
 \033[96;1mF4C3B00K  : [Joker] [28]
 \033[96;1mY0UTUB3   : [Joker] [28]
-\033[96;1mV3RS10N   : [1.10] [28]
+\033[96;1mV3RS10N   : [9.10] [28]
 \033[96;1m0WN3R     : [Joker] [28]
-\033[96;1m  My Life My World Life💗S
+\033[96;1m  Hello everyone, Joker Al-Mesili🥰🔥
 \033[93;1m════════════════════════════════════════════════
 \033[96;1m[-]Joker ON FAIR: ID Save /sdcard/Joker-OK/Joker-COOKIE
 \033[96;1m[-]WQAT BURA NHI THA BS KUXH LOG HARAMI MILY THY

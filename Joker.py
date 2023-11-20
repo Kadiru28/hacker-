@@ -129,8 +129,8 @@ logo=(f"""{GREEN}
 \033[96;1m0WN3R     : [Joker] [28]
 \033[96;1m  Hello everyone, Joker Al-Mesili🥰🔥
 \033[93;1m════════════════════════════════════════════════
-\033[96;1m[-]Joker ON FAIR: ID Save /sdcard/Joker-OK/Joker-COOKIE
-\033[96;1m[-]WQAT BURA NHI THA BS KUXH LOG HARAMI MILY THY
+\033[96;1m[-]Joker Love you all 🤝🏻☠️🇩🇿🇵🇸
+\033[96;1m[-]Facebook account hunting🔥
 \033[93;1m═══════════════════════════════════════════════""")
 def linex():
         print('\033[93;1m════════════════════════════════════════════════')         
